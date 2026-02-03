@@ -3,8 +3,202 @@
 
 
 
-# INTRODUCTION:
-## Hi 👋, I'm Abdul Wahaab Baig<br><br>📊 Data Analyst | Business Intelligence Enthusiast | AI & ML Background  <br>🎓 Computer Science Engineering (AI & ML) | Osmania University, Class of 2025  <br>📍 Hyderabad, India<br><br>I’m a data analyst passionate about converting raw, messy data into meaningful insights that drive business decisions. I enjoy working at the intersection of data, business, and technology, building dashboards, analyzing trends, and telling stories through data.<br><br>---<br><br>### 👨‍💻 About Me<br>- 🧠 Strong foundation in **data analysis, statistics, and business intelligence**<br>- 📈 Experienced in **EDA, KPI analysis, reporting, and dashboard development**<br>- 🛠 Skilled with **Python, SQL, Excel, Power BI, Tableau**<br>- 🔍 Comfortable working with large datasets and presenting insights to stakeholders<br>- 🤝 Believe in data-driven decision-making and continuous learning<br><br>---<br><br>### 🛠️ Technical Skills<br>- **Languages & Tools:** Python, SQL, Excel, C++<br>- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn<br>- **BI & Analytics:** Power BI, Tableau<br>- **Data Skills:** Data Cleaning, EDA, Statistical Analysis, Data Visualization<br>- **Other:** Prompt Engineering, ChatGPT API, LLM Basics<br><br>---<br><br>### 💼 Experience<br>- **Data Science & Analytics Intern – Zidio Development**<br>  - Worked on data cleaning, analysis, and visualization using Python and SQL  <br>  - Built interactive dashboards in Power BI and Tableau  <br>  - Supported predictive analysis and business reporting use cases  <br><br>---<br><br>### 📊 Projects<br>- **Diabetes Prediction Analysis** – Analyzed medical data and built ML models to identify diabetes risk factors  <br>- **Customer Segmentation Analysis** – Clustered customers using purchase behavior to identify high-value segments  <br>- **TrueVision AI** – Data validation and analysis support for deepfake detection models  <br><br>---<br><br>### 📚 Certifications<br>- IBM – Structured Query Language (SQL)<br>- OCI 2025 – Data Science Professional<br>- OCI 2025 – Generative AI Professional<br>- OCI 2025 – AI Foundations Associate<br>- Python Programming – Full Stack Academy<br><br>---<br><br>### 🔭 Currently Working On<br>- Advanced SQL queries for real-world business cases  <br>- Power BI dashboards using real company-style datasets  <br>- Data storytelling and insight-driven reporting  <br>- Improving Python-based data automation workflows  <br><br>---<br><br>### 🤝 Looking to Collaborate On<br>- Data analysis & business intelligence projects  <br>- Dashboard development (Power BI / Tableau)  <br>- Open-source data analytics projects  <br>- Case studies involving real-world datasets  <br><br>---<br><br>### 🆘 Looking for Help With<br>- Best practices in enterprise-level analytics  <br>- Optimizing SQL queries for large datasets  <br>- Advanced Power BI & Tableau techniques  <br><br>---<br><br>### 💬 Ask Me About<br>- Data Analysis & EDA  <br>- SQL for analytics  <br>- Power BI dashboards  <br>- Python for data analytics  <br>- Transitioning from ML to Data Analyst roles  <br><br>---<br><br>### ⚡ Fun Fact<br>I enjoy finding insights in datasets that others usually overlook—and I genuinely love cleaning messy data 😄<br>
+# 👋 Hi, I’m Abdul Wahaab Baig
+
+## 📊 Aspiring Data Analyst | Business Intelligence Enthusiast | AI & ML Graduate  
+
+Welcome to my GitHub profile!  
+I am an aspiring **Data Analyst and Business Intelligence professional** with a strong foundation in **Computer Science Engineering (AI & ML)** from **Osmania University (Class of 2025)**.
+
+I am passionate about:
+- Turning raw data into meaningful insights  
+- Solving business problems using analytics  
+- Building data-driven solutions  
+- Continuous learning and improvement  
+
+I believe in **data-driven decision making** and using analytics to create real-world business value.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science (AI & ML)**  
+📍 Osmania University, Hyderabad  
+🎓 Class of 2025  
+
+Key Areas of Study:
+- Data Science & Analytics  
+- Machine Learning  
+- Statistics & Probability  
+- Database Management Systems  
+- Business Intelligence  
+- Artificial Intelligence  
+
+---
+
+## 💼 Experience
+
+### 📌 Data Science & Analytics Intern — *Zidio Development*  
+During my internship, I worked on real-world datasets and business-driven analytical problems.  
+My responsibilities included:
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature engineering  
+- Visualization and reporting  
+- Building predictive and analytical models  
+- Presenting insights in a business-friendly manner  
+
+This experience strengthened my ability to:
+- Work with large datasets  
+- Translate technical results into business insights  
+- Apply analytics in finance and business use cases  
+
+---
+
+## 🧠 Technical Skills
+
+### 🐍 Programming & Query Languages
+- Python  
+- SQL  
+
+### 📊 Data Analysis & Visualization
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Power BI  
+- Tableau  
+- Excel (Advanced)  
+
+### 🤖 Machine Learning & Analytics
+- Scikit-learn  
+- Statistics & Probability  
+- Regression & Classification  
+- Clustering (Customer Segmentation)  
+- Forecasting models  
+
+### 🗄 Databases
+- MySQL  
+- PostgreSQL  
+
+### 🛠 Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 1. JPMorgan Chase Analytics (Quantitative Research Simulation)
+A project simulating a real-world workflow for a JPMorgan Chase analyst.
+
+**Key Highlights:**
+- Processed and analyzed stock & natural gas price data  
+- Built time-series analysis and visualizations  
+- Created price estimation and forecasting functions  
+- Focused on business interpretation of financial data  
+
+**Skills Demonstrated:**
+Python, Pandas, Visualization, Time Series Analysis, Business Analytics  
+
+---
+
+### 🔹 2. Sales Performance Analysis (Business Intelligence Project)
+
+A Data Analyst–oriented project to analyze retail sales data and generate business insights.
+
+**Business Questions Answered:**
+- How sales perform overall  
+- Which products and regions perform best  
+- Monthly and yearly sales trends  
+- Future sales forecasting  
+
+**Key Skills:**
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- KPI creation  
+- Visualization  
+- Predictive analytics  
+- End-to-end data pipeline  
+
+---
+
+### 🔹 3. Customer Transaction Fraud Analysis (Banking Risk Analytics)
+
+A machine learning project to detect fraudulent bank transactions.
+
+**Project Focus:**
+- Fraud vs normal transaction analysis  
+- Feature engineering  
+- Classification model building  
+- Evaluation and prediction function  
+
+**Skills Used:**
+Python, Pandas, Scikit-learn, Machine Learning, Financial Risk Analytics  
+
+---
+
+### 🔹 4. Diabetes Prediction Analysis
+Analyzed medical datasets and built ML models to identify diabetes risk factors.
+
+**Skills:**
+- Data preprocessing  
+- Classification models  
+- Healthcare analytics  
+
+---
+
+### 🔹 5. Customer Segmentation Analysis
+Clustered customers based on purchase behavior to identify high-value segments.
+
+**Skills:**
+- Clustering (K-Means)  
+- Customer analytics  
+- Business insights  
+
+---
+
+### 🔹 6. TrueVision AI (Deepfake Detection Support Project)
+Worked on data validation and analysis support for deepfake detection models.
+
+**Skills:**
+- Data analysis  
+- Model evaluation  
+- AI security concepts  
+
+---
+
+## 📜 Certifications
+
+- IBM – Structured Query Language (SQL)  
+- OCI 2025 – Data Science Professional  
+- OCI 2025 – Generative AI Professional  
+- OCI 2025 – AI Foundations Associate  
+- Python Programming – Full Stack Academy  
+- Microsoft SQL Certification  
+- JPMorgan Chase Virtual Internship – Quantitative Research / Research Analyst  
+
+## 🎯 Career Objective
+
+To begin my career as a **Data Analyst / Business Intelligence Analyst**, where I can:
+- Apply analytical skills to business problems  
+- Work with real-world data  
+- Create impactful dashboards and reports  
+- Support decision-making with insights  
+- Grow into an expert analytics professional  
+
+---
+
+> *“Every dataset tells a story. My goal is to be the one who understands and explains it clearly.”*
+
+---  
+And I strongly believe in **learning by building projects**.
+
+---
+
+Thank you for visiting my GitHub profile!  
+If you find my work interesting, feel free to ⭐ star my repositories and connect with me 🚀
+
 
 
 ## 🌐 Socials:
@@ -17,11 +211,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=wahaab927&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaab927&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wahaab927&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
